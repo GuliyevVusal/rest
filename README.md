@@ -10,7 +10,5 @@ This is a sample Spring Boot project that demonstrates how to create a REST API.
 
 To run this project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/GuliyevVusal/rest.git
+
 
